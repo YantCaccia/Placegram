@@ -64,4 +64,4 @@ az appconfig create -g Placegram -n placegram-appconfig -l northeurope
 ```
 
 ## How can I use it 💬
-<a href="https://t.me/placegram_bot">Here</a> you go!
+~~<a href="https://t.me/placegram_bot">Here</a> you go!~~ Free deployment plan, probably won't work
